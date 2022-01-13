@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrWildanMD
+- 👋 Hi, I’m Will
 - 👀 I’m interested in developing random things
 - 🌱 I’m currently learning Golang,Kotlin
 - 💞️ It's complicated
