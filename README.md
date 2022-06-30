@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Will
 - 👀 I’m interested in developing random things
-- 🌱 I’m currently learning Golang,Dart,Flutter
+- 🌱 I’m currently learning Golang
 - 💞️ It's complicated
 - 📫 How to reach me? Telegram: @willmd_13
 
