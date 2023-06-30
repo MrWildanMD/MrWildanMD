@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Will
 - 👀 I’m interested in developing random things
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently working on golang and nuxt
 - 💞️ It's complicated
 - 📫 How to reach me? Telegram: @willmd_13
 
